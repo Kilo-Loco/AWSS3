@@ -1,0 +1,20 @@
+PODS:
+  - AWSCognito (2.5.8):
+    - AWSCore (= 2.5.8)
+  - AWSCore (2.5.8)
+  - AWSS3 (2.5.8):
+    - AWSCore (= 2.5.8)
+
+DEPENDENCIES:
+  - AWSCognito
+  - AWSCore
+  - AWSS3
+
+SPEC CHECKSUMS:
+  AWSCognito: 8eb74039f4dc5f2d929999c4f531eeb4bd83e6cb
+  AWSCore: cf101c44d2cc5da32abc27d5529cddc63c010415
+  AWSS3: addf558f9cf2368e7fb520440867fea5596db0fb
+
+PODFILE CHECKSUM: c1425db7f34cf25632727424a9e8b793e995e9fe
+
+COCOAPODS: 1.2.0
